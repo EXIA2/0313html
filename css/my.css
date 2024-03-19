@@ -1,0 +1,23 @@
+input{
+    background-color: antiquewhite;
+}
+label{
+    background-color: brown;
+}
+.tc-red{
+    color: red;
+    font-style: italic;
+}
+
+.bg-blue{
+    color: blue;
+    font-style: italic;
+}
+
+span{
+    color: yellowgreen;
+}
+
+#a1{
+    text-decoration-line: none;
+}
